@@ -1,2 +1,2 @@
 # Calculator-based-on-GUI-Application
-A calculator to solve your Simple Mathematical Problems
+A calculator to solve your Simple Mathematical Calculations
